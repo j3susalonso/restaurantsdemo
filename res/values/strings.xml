@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">Jesus Alonso</string>
+	<string name="tab_places_list">Restaurants</string>
+	<string name="tab_places_map">Google Maps</string>
+	<string name="btn_search">Search again</string>
+</resources>

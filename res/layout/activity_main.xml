@@ -1,0 +1,22 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="fill_parent"
+	android:layout_height="fill_parent"
+	android:orientation="vertical" >
+	<fragment
+		android:id="@+id/tabs_fragment"
+		android:layout_width="fill_parent"
+		android:layout_height="0dip"
+		android:layout_weight="1"
+		class="com.jag.restaurantsdemo.fragments.TabsFragment" />
+	<LinearLayout
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		android:background="#000000" >
+		<Button
+			android:id="@+id/search"
+			android:layout_width="fill_parent"
+			android:layout_height="wrap_content"
+			android:text="@string/btn_search" 
+			android:textColor="#FFD801"/>
+	</LinearLayout>
+</LinearLayout>
