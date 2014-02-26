@@ -3,7 +3,7 @@ Restaurants Demo
 
  Simple application that finds nearby restaurants and shows the results on a Google map.
  
- This apps uses the following components, among others:
+ This app uses the following components, among others:
  
  - Fragments
  - TabWidgets
